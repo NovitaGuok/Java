@@ -1,1 +1,1 @@
-# Java
+open "src" folder --> aplikasiCRUD
